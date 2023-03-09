@@ -1,1 +1,1 @@
-print("Добрый день!")
+print("Welcome to GIT!")
